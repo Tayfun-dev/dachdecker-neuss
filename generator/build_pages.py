@@ -435,14 +435,17 @@ def render_hub(sites: list[dict]) -> str:
     cards = []
     cards.append(
         """<article class="hub-card">
+              <span class="hub-meta">Original</span>
               <h3>Dachdecker Neuss</h3>
               <p>Akute Schäden, Sturmschaden, Dachreparatur und lokale Soforthilfe.</p>
               <a class="text-link" href="../">Demo öffnen</a>
             </article>"""
     )
     for site in sites:
+        category = html.escape(site.get("category", "Lokal"))
         cards.append(
             f"""<article class="hub-card">
+              <span class="hub-meta">{category}</span>
               <h3>{html.escape(site["name"])}</h3>
               <p>{html.escape(site["hub_excerpt"])}</p>
               <a class="text-link" href="../{html.escape(site["slug"])}/">Demo öffnen</a>

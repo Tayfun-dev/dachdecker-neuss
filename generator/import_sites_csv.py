@@ -8,11 +8,25 @@ import sys
 from pathlib import Path
 
 from build_pages import ROOT, load_sites, main as build_pages_main
-from new_site import create_site_entry, save_sites
+from site_factory import create_site_entry, save_sites
 
 
 DEFAULT_CSV = ROOT / "generator" / "bulk_sites.csv"
 REQUIRED_COLUMNS = ("branch", "city", "phone", "main_offer")
+OPTIONAL_COLUMNS = (
+    "category",
+    "subtitle",
+    "primary_cta",
+    "secondary_cta",
+    "hub_excerpt",
+    "hero_title",
+    "hero_lead",
+    "trust_1",
+    "trust_2",
+    "trust_3",
+    "trust_4",
+    "trust_5",
+)
 
 
 def read_rows(csv_path: Path) -> list[dict]:
@@ -46,6 +60,7 @@ def import_rows(rows: list[dict]) -> tuple[int, int, list[str]]:
             city=row["city"],
             phone_display=row["phone"],
             main_offer=row["main_offer"],
+            overrides={column: row.get(column, "") for column in OPTIONAL_COLUMNS},
         )
         if entry["slug"] in existing_slugs:
             skipped += 1
