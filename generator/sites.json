@@ -1,0 +1,740 @@
+[
+  {
+    "slug": "schluesseldienst-duesseldorf",
+    "name": "Schlüsseldienst Düsseldorf",
+    "subtitle": "Türöffnung & Schlossservice",
+    "short_name": "SD",
+    "title": "Schlüsseldienst Düsseldorf | Türöffnung Demo",
+    "meta_description": "Demo-Landingpage für einen Schlüsseldienst in Düsseldorf: Türöffnung, Schlosswechsel, schnelle Hilfe bei Aussperrung und klare Kontaktaufnahme.",
+    "theme": {
+      "accent": "#d58f18",
+      "accent_deep": "#9f6500",
+      "info": "#556b2f"
+    },
+    "phone_display": "0211 00000010",
+    "phone_href": "+4921100000010",
+    "topline": "Schlüsseldienst Düsseldorf | Türöffnung | Demo-Website",
+    "demo_banner": "Demo-Konzept Schlüsseldienst | Kontakt und Bewertungen sind Platzhalter",
+    "hero_eyebrow": "Schlüsseldienst Düsseldorf",
+    "hero_title": "Schnelle Hilfe, wenn Sie in Düsseldorf gerade ausgesperrt sind.",
+    "hero_lead": "Diese Demo zeigt eine conversionstarke Landingpage für Türöffnungen, Schlossprobleme, defekte Zylinder und schnelle Hilfe in Düsseldorf und Umgebung.",
+    "primary_cta": "Jetzt Hilfe anfragen",
+    "secondary_cta": "Preis & Ablauf sehen",
+    "trust_items": [
+      "schnelle Erreichbarkeit",
+      "klare Einschätzung",
+      "sauberer, direkter Kontakt",
+      "Düsseldorf und Umgebung",
+      "Platz für echte Bewertungen"
+    ],
+    "contact_card_text": "Als Demo bewusst mit Platzhalter-Kontakt. Fokus ist die Struktur: Vertrauen, Tempo und niedrige Hürde zur Anfrage.",
+    "visuals": [
+      {
+        "variant": "key",
+        "kicker": "Aussperrung",
+        "headline": "Jetzt zählt Ruhe, klare Hilfe und ein schneller Ansprechpartner."
+      },
+      {
+        "variant": "lock",
+        "kicker": "Schlossproblem",
+        "headline": "Zylinder defekt, Schlüssel verloren oder Schlosswechsel."
+      }
+    ],
+    "status_chip": "Demo-Positionierung",
+    "status_title": "Direkte Hilfe statt langem Überlegen.",
+    "status_text": "Genau dafür funktioniert diese Art von lokaler Landingpage besonders stark.",
+    "services_intro": "Was Besucher sofort verstehen sollen.",
+    "services": [
+      {
+        "title": "Türöffnung",
+        "text": "Schnelle Hilfe bei zugefallener oder verschlossener Tür mit Fokus auf klare Kommunikation."
+      },
+      {
+        "title": "Schlosswechsel",
+        "text": "Wenn das Schloss hakt, beschädigt ist oder aus Sicherheitsgründen getauscht werden soll."
+      },
+      {
+        "title": "Einbruchschaden",
+        "text": "Soforthilfe nach Schaden mit Sicherung und nächstem sinnvollen Schritt."
+      },
+      {
+        "title": "Nebentüren & Briefkasten",
+        "text": "Auch kleinere Öffnungen oder Nebenbereiche können als Lead mitgenommen werden."
+      }
+    ],
+    "why_title": "Worauf Menschen in so einem Moment reagieren.",
+    "why_text": "Sie wollen nicht suchen. Sie wollen jemanden erreichen, der das Problem ernst nimmt und den Ablauf einfach macht.",
+    "why_items": [
+      {
+        "title": "Schnell erreichbar",
+        "text": "Im Notfall ist direkte Erreichbarkeit der stärkste Hebel für Conversion."
+      },
+      {
+        "title": "Klare Ansage",
+        "text": "Keine Agentur-Sprache, sondern einfache Hilfe und ein direkter nächster Schritt."
+      },
+      {
+        "title": "Lokal in Düsseldorf",
+        "text": "Lokale Relevanz reduziert Unsicherheit und erhöht die Kontaktquote."
+      },
+      {
+        "title": "Vertrauensstarke Demo",
+        "text": "Bewertungen und Telefonnummer sind als Demo markiert und später leicht ersetzbar."
+      }
+    ],
+    "reviews_intro": "Beispielhafte Bewertungsdarstellung für spätere echte Rezensionen.",
+    "reviews": [
+      {
+        "text": "„Sehr schnell reagiert und den Ablauf sofort klar erklärt. Genau das braucht man, wenn man ausgesperrt ist.“",
+        "author": "Demo-Bewertung · Düsseldorf"
+      },
+      {
+        "text": "„Direkter Kontakt, ruhige Kommunikation und keine unnötigen Schleifen. So sollte eine Türöffnung wirken.“",
+        "author": "Demo-Bewertung · Türöffnung"
+      },
+      {
+        "text": "„Die Seite macht sofort klar, was gemacht wird, wie man anfragt und warum man jetzt handeln sollte.“",
+        "author": "Demo-Bewertung · Konzept"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Wie schnell wäre Hilfe möglich?",
+        "answer": "Die Demo ist auf sofortige Kontaktaufnahme ausgelegt. In echt würde hier Tempo, Erreichbarkeit und lokaler Bezug betont."
+      },
+      {
+        "question": "Ist das eine echte Firma?",
+        "answer": "Nein. Diese Seite ist eine Demo-Struktur für eine mögliche Schlüsseldienst-Landingpage."
+      },
+      {
+        "question": "Kann man Preise transparent kommunizieren?",
+        "answer": "Ja. Ein späterer echter Anbieter kann Preislogik, Einsatzgebiete und Leistungen hier ergänzen."
+      }
+    ],
+    "contact_title": "Demo-Kontaktbereich für Schlüsseldienst-Leads.",
+    "contact_text": "Die Struktur ist bereits auf Telefon, WhatsApp und Formular ausgelegt. Echte Kontaktdaten lassen sich später in wenigen Minuten austauschen.",
+    "contact_box_1_title": "Demo-Nummer",
+    "contact_box_1_text": "Platzhalter für Anruf-CTA",
+    "contact_box_2_title": "Demo-WhatsApp",
+    "contact_box_2_text": "Platzhalter für Bilder und Kurzbeschreibung",
+    "form_intro": "Formular dient hier nur zur Demonstration des Conversion-Flows.",
+    "form_placeholder": "Kurz schildern, was passiert ist",
+    "form_success": "Demo-Formular aktiv: Für echte Nutzung einfach Telefonnummer, WhatsApp und Formularziel austauschen.",
+    "hub_excerpt": "Ausgesperrt, Schlossproblem oder schnelle Türöffnung mit vertrauensstarker Copy."
+  },
+  {
+    "slug": "elektriker-notdienst-duesseldorf",
+    "name": "Elektriker Notdienst Düsseldorf",
+    "subtitle": "Schnelle Hilfe bei Elektroproblemen",
+    "short_name": "EN",
+    "title": "Elektriker Notdienst Düsseldorf | Demo-Landingpage",
+    "meta_description": "Demo-Landingpage für einen Elektriker Notdienst in Düsseldorf: Stromausfall, FI-Schutzschalter, Kurzschluss und schnelle Elektrohilfe.",
+    "theme": {
+      "accent": "#f0b100",
+      "accent_deep": "#a56c00",
+      "info": "#0f6c78"
+    },
+    "phone_display": "0211 00000020",
+    "phone_href": "+4921100000020",
+    "topline": "Elektriker Notdienst Düsseldorf | Stromausfall | Demo-Website",
+    "demo_banner": "Demo-Konzept Elektriker Notdienst | Kontaktdaten sind Platzhalter",
+    "hero_eyebrow": "Elektriker Notdienst Düsseldorf",
+    "hero_title": "Schnelle Hilfe, wenn in Düsseldorf plötzlich der Strom weg ist.",
+    "hero_lead": "Diese Demo ist auf akute Elektro-Leads ausgelegt: Stromausfall, Sicherung fliegt raus, FI löst aus oder eine Installation wirkt nicht mehr sicher.",
+    "primary_cta": "Jetzt Hilfe anfragen",
+    "secondary_cta": "Problem schildern",
+    "trust_items": [
+      "direkt erreichbar",
+      "schnelle Rückmeldung",
+      "seriöser Notdienst-Fokus",
+      "Düsseldorf und Umgebung",
+      "klare Lead-Struktur"
+    ],
+    "contact_card_text": "Die Demo zeigt, wie sich Sicherheit, Dringlichkeit und Vertrauen auf einer lokalen Elektro-Seite kombinieren lassen.",
+    "visuals": [
+      {
+        "variant": "electricity",
+        "kicker": "Stromausfall",
+        "headline": "Besucher brauchen jetzt Klarheit, nicht technische Texte."
+      },
+      {
+        "variant": "panel",
+        "kicker": "Sicherung / FI",
+        "headline": "Die Seite soll Sicherheit und einen nächsten Schritt vermitteln."
+      }
+    ],
+    "status_chip": "Demo-Positionierung",
+    "status_title": "Sicher wirken. Schnell wirken. Klar wirken.",
+    "status_text": "Gerade im Elektro-Notdienst konvertieren Seiten dann am besten, wenn sie Dringlichkeit mit Seriosität verbinden.",
+    "services_intro": "So wird das Angebot in Sekunden verständlich.",
+    "services": [
+      {
+        "title": "Stromausfall",
+        "text": "Schnelle Hilfe bei plötzlichem Ausfall in Wohnung, Büro oder kleiner Gewerbeeinheit."
+      },
+      {
+        "title": "FI / Sicherung",
+        "text": "Wenn der Schutzschalter auslöst oder Sicherungen immer wieder rausfliegen."
+      },
+      {
+        "title": "Steckdosen & Leitungen",
+        "text": "Auffällige Probleme, Ausfälle oder Verdacht auf Defekt werden einfach erklärt."
+      },
+      {
+        "title": "Sofort-Einschätzung",
+        "text": "Besucher wollen zuerst wissen, dass sie ihr Problem schnell schildern können."
+      }
+    ],
+    "why_title": "Die Seite nimmt Angst und beschleunigt die Kontaktaufnahme.",
+    "why_text": "Das ist bei elektrischen Problemen ein großer Conversion-Hebel.",
+    "why_items": [
+      {
+        "title": "Direkte Kontaktflächen",
+        "text": "Call-to-Actions stehen dort, wo Besucher sie brauchen."
+      },
+      {
+        "title": "Verständliche Copy",
+        "text": "Keine technische Überforderung, sondern Hilfe in normaler Sprache."
+      },
+      {
+        "title": "Lokaler Fokus",
+        "text": "Düsseldorf als klarer Ort erhöht Vertrauen und Relevanz."
+      },
+      {
+        "title": "Notdienst-Struktur",
+        "text": "Tempo, Vertrauen und Einfachheit sind aufeinander abgestimmt."
+      }
+    ],
+    "reviews_intro": "Beispielhafte Trust-Darstellung für eine echte Elektro-Lead-Seite.",
+    "reviews": [
+      {
+        "text": "„Die Seite vermittelt sofort: Hier kann ich mein Problem schnell schildern und bekomme Hilfe.“",
+        "author": "Demo-Bewertung · Düsseldorf"
+      },
+      {
+        "text": "„Sehr gutes Beispiel dafür, wie man Notdienst-Leads ohne Überfrachtung einsammelt.“",
+        "author": "Demo-Bewertung · Elektriker"
+      },
+      {
+        "text": "„Vertrauen, Tempo und klare Leistungen sind hier sauber auf mobile Nutzung gebaut.“",
+        "author": "Demo-Bewertung · Konzept"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Ist das nur für Notfälle gedacht?",
+        "answer": "Der Fokus liegt auf dringenden Leads. Die Struktur funktioniert aber auch für normale Elektroanfragen."
+      },
+      {
+        "question": "Kann man echte Leistungen ergänzen?",
+        "answer": "Ja. Preise, Einsatzzeiten, Stadtteile und Leistungen lassen sich leicht anpassen."
+      },
+      {
+        "question": "Ist das mobil optimiert?",
+        "answer": "Ja. Die Demo ist bewusst mobile-first aufgebaut."
+      }
+    ],
+    "contact_title": "Demo-Kontaktbereich für Elektro-Leads.",
+    "contact_text": "Perfekt als Vorlage für Elektriker, Elektro-Notdienst oder Sicherheits-Checks mit lokalem Fokus.",
+    "contact_box_1_title": "Demo-Nummer",
+    "contact_box_1_text": "Platzhalter für Anruf",
+    "contact_box_2_title": "Demo-WhatsApp",
+    "contact_box_2_text": "Platzhalter für Bilder / Kurzinfo",
+    "form_intro": "Formular für die Darstellung eines schnellen Lead-Prozesses.",
+    "form_placeholder": "Kurz schildern, was gerade nicht funktioniert",
+    "form_success": "Demo-Formular aktiv: Für Live-Nutzung einfach echte Kontaktdaten und Formularziel ergänzen.",
+    "hub_excerpt": "Stromausfall, FI-Probleme und dringende Elektrohilfe mit sofortigem CTA-Fokus."
+  },
+  {
+    "slug": "maler-lackierer-duesseldorf",
+    "name": "Maler & Lackierer Düsseldorf",
+    "subtitle": "Anstrich, Lackierung, Renovierung",
+    "short_name": "ML",
+    "title": "Maler & Lackierer Düsseldorf | Demo-Landingpage",
+    "meta_description": "Demo-Landingpage für Maler und Lackierer in Düsseldorf: Innenanstrich, Lackierarbeiten, Renovierung und Wohnungsübergabe.",
+    "theme": {
+      "accent": "#db6d45",
+      "accent_deep": "#9f4020",
+      "info": "#2e6f95"
+    },
+    "phone_display": "0211 00000030",
+    "phone_href": "+4921100000030",
+    "topline": "Maler & Lackierer Düsseldorf | saubere Renovierungs-Leads",
+    "demo_banner": "Demo-Konzept Maler & Lackierer | Kontakt und Referenzen sind Platzhalter",
+    "hero_eyebrow": "Maler & Lackierer Düsseldorf",
+    "hero_title": "Saubere Malerarbeiten in Düsseldorf ohne Baustellenchaos.",
+    "hero_lead": "Diese Demo ist auf Anfragen für Innenanstrich, Lackierarbeiten, Auffrischung vor Einzug oder Wohnungsübergabe ausgelegt. Weniger Blabla, mehr Klarheit.",
+    "primary_cta": "Besichtigung anfragen",
+    "secondary_cta": "Bilder schicken",
+    "trust_items": [
+      "saubere Ausführung",
+      "klare Termine",
+      "verständliche Angebote",
+      "Düsseldorf und Umgebung",
+      "starke Wohnungsübergabe-Ansprache"
+    ],
+    "contact_card_text": "Diese Version verkauft nicht über Showroom-Optik, sondern über Sicherheit, Ordnung und einen klaren Ablauf.",
+    "visuals": [
+      {
+        "variant": "paint",
+        "kicker": "Auffrischung",
+        "headline": "Besucher wollen schnell sehen: Sieht das Ergebnis sauber und modern aus?"
+      },
+      {
+        "variant": "roller",
+        "kicker": "Lackierarbeiten",
+        "headline": "Türen, Zargen und Holzflächen als hochwertige Zusatzleistung."
+      }
+    ],
+    "status_chip": "Demo-Positionierung",
+    "status_title": "Sauber, verbindlich und wohnlich verkauft.",
+    "status_text": "Genau darauf reagieren Privatkunden, Vermieter und Übergabe-Projekte besonders stark.",
+    "services_intro": "Die passenden Lead-Einstiege für Renovierung und Anstrich.",
+    "services": [
+      {
+        "title": "Innenanstrich",
+        "text": "Wände und Decken sauber auffrischen, ohne unnötige Komplexität."
+      },
+      {
+        "title": "Lackierarbeiten",
+        "text": "Türen, Zargen, Holzflächen und Details mit klarem Nutzenfokus verkaufen."
+      },
+      {
+        "title": "Wohnungsübergabe",
+        "text": "Starke Lead-Nische für Eigentümer, Vermieter und Mieter mit Deadline."
+      },
+      {
+        "title": "Renovierung mit Plan",
+        "text": "Kurze Besichtigung, klare Rückmeldung, nachvollziehbares Angebot."
+      }
+    ],
+    "why_title": "Weil Kunden Ordnung und Ergebnis kaufen.",
+    "why_text": "Die Demo fokussiert sich auf das, was in dieser Nische wirklich zieht: saubere Ausführung, Verbindlichkeit und sichtbare Verbesserung.",
+    "why_items": [
+      {
+        "title": "Saubere Baustelle",
+        "text": "Ein starkes Vertrauenssignal für Privatkunden."
+      },
+      {
+        "title": "Klare Termine",
+        "text": "Hilft gegen die größte Skepsis in der Branche."
+      },
+      {
+        "title": "Vorher-Nachher-Potenzial",
+        "text": "Ideal für spätere Referenzen, Bilder und Social Proof."
+      },
+      {
+        "title": "Einfache Anfrage",
+        "text": "Besichtigung, Bilder und kurze Problembeschreibung reichen als Einstieg."
+      }
+    ],
+    "reviews_intro": "Beispielhafte Social-Proof-Darstellung für eine Maler-Leadseite.",
+    "reviews": [
+      {
+        "text": "„Die Seite wirkt sofort sauber, ordentlich und vertrauenswürdig. Genau das muss ein Malerbetrieb transportieren.“",
+        "author": "Demo-Bewertung · Düsseldorf"
+      },
+      {
+        "text": "„Wohnungsübergabe als eigener Conversion-Einstieg ist smart, weil die Zielgruppe eine klare Deadline hat.“",
+        "author": "Demo-Bewertung · Übergabe"
+      },
+      {
+        "text": "„Sehr gute Demo für lokale Handwerksleads mit hohem Vertrauensbedarf.“",
+        "author": "Demo-Bewertung · Konzept"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Macht die Seite auch für normale Anstriche Sinn?",
+        "answer": "Ja. Neben Übergabe- oder Renovierungsdruck funktioniert die Struktur auch für klassische Maler-Anfragen."
+      },
+      {
+        "question": "Kann man echte Bilder ergänzen?",
+        "answer": "Ja. Gerade in dieser Nische sind Vorher-Nachher-Bilder später extrem stark."
+      },
+      {
+        "question": "Ist das für mobile Nutzer gemacht?",
+        "answer": "Ja. Große Buttons und klare Scroll-Logik sorgen für gute Nutzbarkeit auf dem Handy."
+      }
+    ],
+    "contact_title": "Demo-Kontaktbereich für Maler- und Lackierer-Leads.",
+    "contact_text": "Später lassen sich hier echte Telefonnummer, WhatsApp und Besichtigungsformular einsetzen.",
+    "contact_box_1_title": "Demo-Nummer",
+    "contact_box_1_text": "Platzhalter für direkte Besichtigung",
+    "contact_box_2_title": "Demo-WhatsApp",
+    "contact_box_2_text": "Perfekt für Wände, Räume, Türen und Details",
+    "form_intro": "Formular zeigt den Lead-Einstieg für Bilder, Flächen und Zeitfenster.",
+    "form_placeholder": "Was soll gestrichen oder lackiert werden?",
+    "form_success": "Demo-Formular aktiv: Echte Kontaktdaten und Angebotslogik lassen sich später direkt einsetzen.",
+    "hub_excerpt": "Saubere Renovierungs-Leads für Anstrich, Lackierung und Wohnungsübergaben."
+  },
+  {
+    "slug": "trockenbau-duesseldorf",
+    "name": "Trockenbau Düsseldorf",
+    "subtitle": "Raumlösungen & Innenausbau",
+    "short_name": "TB",
+    "title": "Trockenbau Düsseldorf | Demo-Landingpage",
+    "meta_description": "Demo-Landingpage für Trockenbau in Düsseldorf: Wände, Decken, Raumaufteilung, Verkleidungen und saubere Ausbauprojekte.",
+    "theme": {
+      "accent": "#c46a39",
+      "accent_deep": "#87401f",
+      "info": "#5a6e7b"
+    },
+    "phone_display": "0211 00000040",
+    "phone_href": "+4921100000040",
+    "topline": "Trockenbau Düsseldorf | Wände, Decken, Ausbau",
+    "demo_banner": "Demo-Konzept Trockenbau | Kontakt und Referenzen sind Platzhalter",
+    "hero_eyebrow": "Trockenbau Düsseldorf",
+    "hero_title": "Saubere Raumlösungen in Düsseldorf ohne unnötiges Projektchaos.",
+    "hero_lead": "Die Demo verkauft Trockenbau über Klarheit, Struktur und sichtbaren Nutzen: neue Räume, bessere Aufteilung, glattere Flächen und sauberer Ausbau.",
+    "primary_cta": "Angebot anfragen",
+    "secondary_cta": "Projekt schildern",
+    "trust_items": [
+      "klare Raumlösung",
+      "sauberer Ausbau",
+      "verständliche Kommunikation",
+      "Düsseldorf und Umgebung",
+      "stark für Privat & Gewerbe"
+    ],
+    "contact_card_text": "Diese Seite ist als Conversion-Demo gebaut: klarer Nutzen, geringer Erklärungsaufwand und starke Anfrageflächen.",
+    "visuals": [
+      {
+        "variant": "wall",
+        "kicker": "Neue Raumaufteilung",
+        "headline": "Besucher sollen das Ergebnis gedanklich sofort vor sich sehen."
+      },
+      {
+        "variant": "ceiling",
+        "kicker": "Decken & Verkleidung",
+        "headline": "Auch Optik, Ordnung und saubere Oberflächen lassen sich klar verkaufen."
+      }
+    ],
+    "status_chip": "Demo-Positionierung",
+    "status_title": "Von der Idee zur klaren Anfrage.",
+    "status_text": "Trockenbau verkauft sich besser, wenn Ergebnis, Ablauf und Ordnung sofort verständlich sind.",
+    "services_intro": "Die wichtigsten Trockenbau-Einstiege für lokale Leads.",
+    "services": [
+      {
+        "title": "Wände stellen",
+        "text": "Neue Aufteilung für Wohnung, Büro oder Gewerbefläche."
+      },
+      {
+        "title": "Decken abhängen",
+        "text": "Saubere Lösungen für Optik, Technik und ruhigeres Raumgefühl."
+      },
+      {
+        "title": "Verkleidungen",
+        "text": "Leitungen, Schächte oder unsaubere Bereiche ordentlich lösen."
+      },
+      {
+        "title": "Spachteln & Vorbereitung",
+        "text": "Perfekt als Folgeangebot für Maler oder direkte Anschlussarbeiten."
+      }
+    ],
+    "why_title": "Weil Kunden nicht nur Bauleistung kaufen, sondern Orientierung.",
+    "why_text": "Gerade bei Trockenbau hilft eine Seite, die das Projekt greifbar macht und nicht technisch zerredet.",
+    "why_items": [
+      {
+        "title": "Greifbarer Nutzen",
+        "text": "Mehr Raum, bessere Struktur, sauberere Flächen."
+      },
+      {
+        "title": "Ordentlicher Ablauf",
+        "text": "Klare Anfrage, kurze Rückmeldung, nächster Schritt sichtbar."
+      },
+      {
+        "title": "Geeignet für B2C und B2B",
+        "text": "Funktioniert für Wohnung, Büro, Laden oder Praxis."
+      },
+      {
+        "title": "Starkes Visual-Potenzial",
+        "text": "Später ideal mit Referenzbildern und Vorher-Nachher-Fällen ergänzbar."
+      }
+    ],
+    "reviews_intro": "Beispielhafte Bewertungskarten für spätere echte Referenzen.",
+    "reviews": [
+      {
+        "text": "„Die Seite macht sofort verständlich, was gebaut wird und wie die Anfrage startet.“",
+        "author": "Demo-Bewertung · Trockenbau"
+      },
+      {
+        "text": "„Besonders stark ist die klare Verbindung aus Raumlösung, Ablauf und Nutzen.“",
+        "author": "Demo-Bewertung · Düsseldorf"
+      },
+      {
+        "text": "„Eine saubere Vorlage für spätere Referenzen, Gewerbe-Fälle und lokale Anfragen.“",
+        "author": "Demo-Bewertung · Konzept"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Eignet sich die Seite für Privatkunden?",
+        "answer": "Ja. Die Struktur ist bewusst einfach und verständlich gehalten."
+      },
+      {
+        "question": "Kann man auch Gewerbe ansprechen?",
+        "answer": "Ja. Mit wenigen Anpassungen lässt sich die Seite gut auf kleine Gewerbeprojekte ausrichten."
+      },
+      {
+        "question": "Was fehlt noch für den Live-Einsatz?",
+        "answer": "Echte Kontaktdaten, Referenzen, Stadtteile und eventuell ein Formularziel."
+      }
+    ],
+    "contact_title": "Demo-Kontaktbereich für Trockenbau-Projekte.",
+    "contact_text": "Sauber vorbereitet für Anruf, Bilder, Grundriss oder kurze Beschreibung des Vorhabens.",
+    "contact_box_1_title": "Demo-Nummer",
+    "contact_box_1_text": "Platzhalter für schnellen Erstkontakt",
+    "contact_box_2_title": "Demo-WhatsApp",
+    "contact_box_2_text": "Skizzen, Maße und Bilder direkt mitschicken",
+    "form_intro": "Formular für die Darstellung eines einfachen Angebotsstarts.",
+    "form_placeholder": "Was soll gebaut, geteilt oder verkleidet werden?",
+    "form_success": "Demo-Formular aktiv: Echte Angebotsstrecke kann direkt auf dieser Basis ergänzt werden.",
+    "hub_excerpt": "Wände, Decken, Raumaufteilung und saubere Ausbau-Projekte mit klarer Angebotsstruktur."
+  },
+  {
+    "slug": "rohrreinigung-duesseldorf",
+    "name": "Rohrreinigung Düsseldorf",
+    "subtitle": "Abflussnotdienst & Soforthilfe",
+    "short_name": "RR",
+    "title": "Rohrreinigung Düsseldorf | Abflussnotdienst Demo",
+    "meta_description": "Demo-Landingpage für Rohrreinigung und Abflussnotdienst in Düsseldorf: verstopfter Abfluss, WC, Dusche, Küche und schnelle Hilfe.",
+    "theme": {
+      "accent": "#128c7e",
+      "accent_deep": "#0d6158",
+      "info": "#1f7a8c"
+    },
+    "phone_display": "0211 00000050",
+    "phone_href": "+4921100000050",
+    "topline": "Rohrreinigung Düsseldorf | Abflussnotdienst | Demo-Website",
+    "demo_banner": "Demo-Konzept Rohrreinigung | starke High-Paying-Notdienst-Nische",
+    "hero_eyebrow": "Rohrreinigung Düsseldorf",
+    "hero_title": "Schnelle Hilfe, wenn in Düsseldorf der Abfluss dicht ist.",
+    "hero_lead": "Das ist eine starke Demo für eine High-Paying-Nische: akuter Schmerz, hohe Dringlichkeit, klare Nachfrage und extrem gute Voraussetzungen für Anruf- und WhatsApp-Leads.",
+    "primary_cta": "Jetzt Hilfe anfragen",
+    "secondary_cta": "Problem schildern",
+    "trust_items": [
+      "akute Dringlichkeit",
+      "ideal für Telefon-Leads",
+      "starke WhatsApp-Nutzung",
+      "Düsseldorf und Umgebung",
+      "hohes Upsell-Potenzial"
+    ],
+    "contact_card_text": "Hier sieht man sehr gut, wie Notdienst-Copy, lokale SEO und Sofort-CTA zusammenarbeiten.",
+    "visuals": [
+      {
+        "variant": "drain",
+        "kicker": "Akuter Rückstau",
+        "headline": "Wasser steht? Dann zählt eine Seite, die sofort zum Kontakt führt."
+      },
+      {
+        "variant": "pipe",
+        "kicker": "Küche / Bad / WC",
+        "headline": "Je akuter das Problem, desto weniger wird verglichen."
+      }
+    ],
+    "status_chip": "High-Paying-Nische",
+    "status_title": "Starke Nachfrage plus klare Dringlichkeit.",
+    "status_text": "Rohrreinigung und Abflussnotdienst eignen sich hervorragend für skalierbare lokale Landingpages.",
+    "services_intro": "Genau die Leistungen, nach denen akut gesucht wird.",
+    "services": [
+      {
+        "title": "Abfluss verstopft",
+        "text": "Küche, Bad, Dusche oder Waschbecken als direkter Einstieg."
+      },
+      {
+        "title": "WC verstopft",
+        "text": "Hohe Dringlichkeit, gute Conversion, klare Notsituation."
+      },
+      {
+        "title": "Rohrreinigung",
+        "text": "Generischer Hauptbegriff mit starkem lokalem Suchinteresse."
+      },
+      {
+        "title": "Notdienst",
+        "text": "CTA-starke Zusatzpositionierung für schnelle Kontakte."
+      }
+    ],
+    "why_title": "Hier trifft starke Nachfrage auf glasklare Angebotskommunikation.",
+    "why_text": "Genau deshalb ist diese Branche so spannend, wenn du Seiten im System bauen willst.",
+    "why_items": [
+      {
+        "title": "Akutes Problem",
+        "text": "Wer Rückstau hat, möchte nicht lange vergleichen."
+      },
+      {
+        "title": "Telefonisch stark",
+        "text": "Hohe Wahrscheinlichkeit für direkte Anrufe statt langer Kontaktwege."
+      },
+      {
+        "title": "Lokale SEO",
+        "text": "Begriffe wie Rohrreinigung Düsseldorf und Abflussnotdienst Düsseldorf sind extrem wertvoll."
+      },
+      {
+        "title": "Skalierbar",
+        "text": "Das Muster lässt sich gut auf weitere Städte und Varianten ausrollen."
+      }
+    ],
+    "reviews_intro": "Beispielhafte Vertrauensdarstellung für eine aggressive, aber seriöse Notdienst-Seite.",
+    "reviews": [
+      {
+        "text": "„Sehr starke Lead-Struktur für eine Nische, in der Besucher unter Zeitdruck handeln.“",
+        "author": "Demo-Bewertung · Notdienst"
+      },
+      {
+        "text": "„Die Seite drückt auf Anruf und WhatsApp, ohne billig oder unseriös zu wirken.“",
+        "author": "Demo-Bewertung · Konzept"
+      },
+      {
+        "text": "„Für lokale Skalierung ist das eine der interessantesten Branchen im Paket.“",
+        "author": "Demo-Bewertung · Wachstum"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Ist Rohrreinigung wirklich so attraktiv?",
+        "answer": "Ja. Lokale Notlage plus Suchintention plus hoher Handlungsdruck machen die Nische stark."
+      },
+      {
+        "question": "Kann man die Seite noch härter auf Conversion trimmen?",
+        "answer": "Ja. Mit echter Preislogik, Stadtteilen, Call-Tracking und Referenzen wird sie noch stärker."
+      },
+      {
+        "question": "Funktioniert das auch in anderen Städten?",
+        "answer": "Ja. Genau dafür ist die Struktur gebaut."
+      }
+    ],
+    "contact_title": "Demo-Kontaktbereich für Rohrreinigung-Leads.",
+    "contact_text": "Die Seite ist bewusst auf Sofortkontakt ausgelegt. Für Live-Betrieb fehlen nur echte Nummern, Tracking und Formularziel.",
+    "contact_box_1_title": "Demo-Nummer",
+    "contact_box_1_text": "Platzhalter für den Haupt-CTA",
+    "contact_box_2_title": "Demo-WhatsApp",
+    "contact_box_2_text": "Fotos, Adresse und kurze Schilderung",
+    "form_intro": "Kontaktformular als Ergänzung zu Anruf und WhatsApp.",
+    "form_placeholder": "Wo ist der Abfluss dicht? Was passiert gerade?",
+    "form_success": "Demo-Formular aktiv: Gerade in dieser Nische lohnt sich später Tracking für Anruf, WhatsApp und Formular besonders.",
+    "hub_excerpt": "High-paying Notdienst-Nische mit akuter Nachfrage, klarer Dringlichkeit und schnellen Leads."
+  },
+  {
+    "slug": "photovoltaik-duesseldorf",
+    "name": "Photovoltaik Düsseldorf",
+    "subtitle": "Beratung, Planung & Montage",
+    "short_name": "PV",
+    "title": "Photovoltaik Düsseldorf | Demo-Landingpage",
+    "meta_description": "Demo-Landingpage für Photovoltaik in Düsseldorf: Solaranlage, Beratung, Planung, Speicher und Anfrage für Eigentümer.",
+    "theme": {
+      "accent": "#f39c12",
+      "accent_deep": "#b66a06",
+      "info": "#1c7c54"
+    },
+    "phone_display": "0211 00000060",
+    "phone_href": "+4921100000060",
+    "topline": "Photovoltaik Düsseldorf | Solaranlage | Demo-Website",
+    "demo_banner": "Demo-Konzept Photovoltaik | High-Ticket-Lead mit Eigentümer-Fokus",
+    "hero_eyebrow": "Photovoltaik Düsseldorf",
+    "hero_title": "Mehr Anfragen von Eigentümern, die in Düsseldorf über eine Solaranlage nachdenken.",
+    "hero_lead": "Diese Demo ist nicht auf Notfall, sondern auf hochwertigen Beratungs-Lead ausgelegt: Dachfläche, Verbrauch, Wirtschaftlichkeit und klare nächste Schritte für Eigentümer.",
+    "primary_cta": "Beratung anfragen",
+    "secondary_cta": "Projekt prüfen",
+    "trust_items": [
+      "high-ticket Potenzial",
+      "ideal für Eigentümer-Leads",
+      "klarer Beratungsfokus",
+      "Düsseldorf und Umgebung",
+      "starke Kombination aus SEO und Ads"
+    ],
+    "contact_card_text": "Photovoltaik ist eine starke Wachstums-Nische, wenn die Seite nicht technisch erschlägt, sondern sauber zur Anfrage führt.",
+    "visuals": [
+      {
+        "variant": "solar",
+        "kicker": "Eigentümer-Lead",
+        "headline": "Nicht jedes Dach ist gleich, aber jede Anfrage braucht einen klaren Einstieg."
+      },
+      {
+        "variant": "house",
+        "kicker": "Planung & Wirtschaftlichkeit",
+        "headline": "Besucher wollen wissen: Lohnt sich das für mein Haus überhaupt?"
+      }
+    ],
+    "status_chip": "High-Ticket-Nische",
+    "status_title": "Mehr Beratung. Höherer Auftragswert.",
+    "status_text": "Photovoltaik ist ideal, wenn du nicht nur Leads, sondern hochwertige Eigentümer-Anfragen einsammeln willst.",
+    "services_intro": "Die wichtigsten Lead-Einstiege für Solar-Anfragen.",
+    "services": [
+      {
+        "title": "Solaranlage fürs Eigenheim",
+        "text": "Klarer Fokus auf Eigentümer mit Dachfläche und echtem Interesse."
+      },
+      {
+        "title": "Speicher & Planung",
+        "text": "Nicht nur Montage, sondern nachvollziehbare Lösung mit Nutzenfokus."
+      },
+      {
+        "title": "Dach-Check & Machbarkeit",
+        "text": "Perfekt als einfacher erster Schritt für unentschlossene Interessenten."
+      },
+      {
+        "title": "Beratung & Angebot",
+        "text": "Die Seite führt konsequent zu einer qualifizierten Anfrage."
+      }
+    ],
+    "why_title": "Weil Eigentümer keine Katalogseite wollen, sondern Orientierung.",
+    "why_text": "Gerade bei Photovoltaik verkauft eine gute Landingpage nicht über Technik, sondern über Klarheit, Nutzen und den richtigen nächsten Schritt.",
+    "why_items": [
+      {
+        "title": "High-Ticket-Branche",
+        "text": "Ein einzelner Lead kann hier deutlich wertvoller sein als in vielen anderen Nischen."
+      },
+      {
+        "title": "Eigentümer-Fokus",
+        "text": "Die Copy richtet sich an Menschen mit realer Entscheidungsbefugnis."
+      },
+      {
+        "title": "Qualifizierende Struktur",
+        "text": "Schon die Landingpage kann helfen, die richtigen Anfragen anzuziehen."
+      },
+      {
+        "title": "Skalierbar",
+        "text": "Funktioniert gut für weitere Städte, Bezirke und Angebotsvarianten."
+      }
+    ],
+    "reviews_intro": "Beispielhafte Bewertungsdarstellung für eine Solar-Leadseite mit Eigentümer-Fokus.",
+    "reviews": [
+      {
+        "text": "„Die Seite führt nicht in Technik-Sumpf, sondern macht den nächsten Schritt glasklar.“",
+        "author": "Demo-Bewertung · Photovoltaik"
+      },
+      {
+        "text": "„Sehr gut geeignet für Anzeigen-Traffic, bei dem Eigentümer schnell einschätzen wollen, ob sich eine Anfrage lohnt.“",
+        "author": "Demo-Bewertung · Ads"
+      },
+      {
+        "text": "„Starke Demo für eine Nische mit hohem Auftragswert und guter lokaler Skalierbarkeit.“",
+        "author": "Demo-Bewertung · Wachstum"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Warum ist Photovoltaik eine starke Nische?",
+        "answer": "Weil hier hohe Auftragswerte, lokale Nachfrage und guter Beratungsbedarf zusammenkommen."
+      },
+      {
+        "question": "Kann man Eigentümer besser vorqualifizieren?",
+        "answer": "Ja. Mit ein paar zusätzlichen Feldern wie Dachart, Verbrauch oder Immobilientyp wird das sehr stark."
+      },
+      {
+        "question": "Eignet sich das für bezahlten Traffic?",
+        "answer": "Ja. Gerade für Google Ads kann eine fokussierte Eigentümer-Landingpage sehr gut funktionieren."
+      }
+    ],
+    "contact_title": "Demo-Kontaktbereich für Photovoltaik-Leads.",
+    "contact_text": "Perfekt als Grundlage für eine spätere Qualifizierungsstrecke mit Eigentümerdaten, Verbrauch und Dachangaben.",
+    "contact_box_1_title": "Demo-Nummer",
+    "contact_box_1_text": "Platzhalter für Beratungsanruf",
+    "contact_box_2_title": "Demo-WhatsApp",
+    "contact_box_2_text": "Dachbilder und Eckdaten direkt schicken",
+    "form_intro": "Formular für die Darstellung einer qualifizierten Solar-Anfrage.",
+    "form_placeholder": "Dachtyp, Größe oder kurze Beschreibung des Vorhabens",
+    "form_success": "Demo-Formular aktiv: Gerade hier lohnt sich später ein qualifizierendes Formular besonders.",
+    "hub_excerpt": "High-ticket Eigentümer-Leads für Solaranlage, Beratung und Montage."
+  }
+]

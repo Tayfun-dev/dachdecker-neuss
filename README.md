@@ -7,6 +7,33 @@ Diese Website ist als statische Seite fuer GitHub Pages vorbereitet.
 - `index.html`
 - `styles.css`
 - `.github/workflows/pages.yml`
+- `generator/sites.json`
+- `generator/build_pages.py`
+
+## Landingpage-Generator
+
+Neue Demo-Seiten werden ueber eine zentrale Daten-Datei erzeugt.
+
+### Daten pflegen
+
+Alle Branchen-Demos stehen in:
+
+- `generator/sites.json`
+
+Dort kannst du neue Eintraege fuer weitere Staedte, Branchen und Angebote anlegen.
+
+### Seiten neu erzeugen
+
+```bash
+cd /Users/tayfungomukpinar/Documents/Playground
+python3 -B generator/build_pages.py
+```
+
+Der Befehl aktualisiert:
+
+- `demos/index.html`
+- alle generierten Unterordner wie `schluesseldienst-duesseldorf/`
+- weitere neue Branchen aus `generator/sites.json`
 
 ## So stellst du die Seite live
 
