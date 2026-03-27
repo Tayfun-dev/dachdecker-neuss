@@ -860,5 +860,377 @@
     "form_placeholder": "Worum geht es bei Türöffnung & Schlosswechsel genau?",
     "form_success": "Demo-Formular aktiv: Für Live-Nutzung nur echte Kontaktdaten und Angebotslogik einsetzen.",
     "hub_excerpt": "Aussperrung, Türöffnung und direkte Hilfe mit starker Notfall-Ansprache."
+  },
+  {
+    "slug": "entruempelung-bonn",
+    "city": "Bonn",
+    "name": "Entrümpelung Bonn",
+    "subtitle": "Lokale Hilfe & klare Anfrage",
+    "short_name": "EN",
+    "title": "Entrümpelung Bonn | Demo-Landingpage",
+    "meta_description": "Demo-Landingpage für Entrümpelung in Bonn: Wohnungsauflösung & Entrümpelung, lokale Lead-Ansprache und direkte Kontaktaufnahme.",
+    "theme": {
+      "accent": "#c46a39",
+      "accent_deep": "#87401f",
+      "info": "#5a6e7b"
+    },
+    "phone_display": "0228 12345678",
+    "phone_href": "+4922812345678",
+    "topline": "Entrümpelung Bonn | Wohnungsauflösung & Entrümpelung | Demo-Website",
+    "demo_banner": "Demo-Konzept Entrümpelung | Kontakt, Bewertungen und Referenzen sind Platzhalter",
+    "hero_eyebrow": "Entrümpelung Bonn",
+    "hero_title": "Mehr Anfragen für Entrümpelung in Bonn, ohne dass Besucher lange überlegen müssen.",
+    "hero_lead": "Diese Demo-Landingpage ist auf direkte Leads ausgelegt: Wohnungsauflösung & Entrümpelung, klare Positionierung, lokale Relevanz und eine einfache Anfrage per Telefon, WhatsApp oder Formular.",
+    "primary_cta": "Jetzt Anfrage starten",
+    "secondary_cta": "Leistung ansehen",
+    "trust_items": [
+      "direkte Kontaktflächen",
+      "starke mobile Struktur",
+      "lokale Relevanz",
+      "Bonn und Umgebung",
+      "Platz für echte Bewertungen"
+    ],
+    "contact_card_text": "Die Demo ist so gebaut, dass Vertrauen, Nutzen und nächster Schritt schnell verständlich werden.",
+    "visuals": [
+      {
+        "variant": "house",
+        "kicker": "Sofort verständlich",
+        "headline": "Wohnungsauflösung & Entrümpelung muss in wenigen Sekunden greifbar und relevant wirken."
+      },
+      {
+        "variant": "solar",
+        "kicker": "Lokale Lead-Ansprache",
+        "headline": "Die Seite soll Entrümpelung-Interessenten aus Bonn schnell zum Kontakt führen."
+      }
+    ],
+    "status_chip": "Demo-Positionierung",
+    "status_title": "Klarer Nutzen. Klare Anfrage. Klare Richtung.",
+    "status_text": "Genau so lässt sich Entrümpelung in Bonn als lokale Lead-Landingpage effizient präsentieren.",
+    "services_intro": "Die wichtigsten Einstiege für schnelle Anfragen.",
+    "services": [
+      {
+        "title": "Wohnungsauflösung & Entrümpelung",
+        "text": "Das Hauptangebot steht sofort sichtbar im Fokus und beantwortet direkt den ersten Suchimpuls."
+      },
+      {
+        "title": "Schnelle Einschätzung",
+        "text": "Besucher können ihr Problem oder Vorhaben kurz schildern und sehen sofort einen einfachen nächsten Schritt."
+      },
+      {
+        "title": "Vor-Ort-Termin",
+        "text": "Die Seite ist darauf ausgelegt, kurzfristige Rückmeldung und klare Terminabstimmung zu verkaufen."
+      },
+      {
+        "title": "Direkte Anfrage",
+        "text": "Anruf, WhatsApp oder Formular werden bewusst niedrigschwellig und conversionstark platziert."
+      }
+    ],
+    "why_title": "Warum diese Struktur für lokale Anfragen funktioniert.",
+    "why_text": "Die Seite reduziert Unsicherheit, macht den Nutzen verständlich und führt Besucher sichtbar zum nächsten Schritt.",
+    "why_items": [
+      {
+        "title": "Klare Positionierung",
+        "text": "Die Seite macht in wenigen Sekunden verständlich, warum genau dieser Entrümpelung in Bonn relevant ist."
+      },
+      {
+        "title": "Starke mobile Nutzung",
+        "text": "Große Buttons, klare Scrolltiefe und direkte Kontaktflächen erhöhen die Lead-Chance auf dem Handy."
+      },
+      {
+        "title": "Lokale Relevanz",
+        "text": "Bonn steht nicht nur in der Überschrift, sondern zieht sich sauber durch die komplette Lead-Story."
+      },
+      {
+        "title": "Schneller Austausch",
+        "text": "Texte, Telefonnummer und Angebote lassen sich später in Minuten auf echte Kundendaten umstellen."
+      }
+    ],
+    "reviews_intro": "Beispielhafte Demo-Bewertungen für die spätere Trust-Darstellung.",
+    "reviews": [
+      {
+        "text": "„Sehr gute Demo dafür, wie man einen Entrümpelung in Bonn direkt, verständlich und kontaktstark präsentiert.“",
+        "author": "Demo-Bewertung · Bonn"
+      },
+      {
+        "text": "„Die Seite führt schnell zum Kontakt und wirkt dabei klar, lokal und vertrauenswürdig.“",
+        "author": "Demo-Bewertung · Lead-Konzept"
+      },
+      {
+        "text": "„Saubere Struktur für Anzeigen, Google Business und direkte Suchanfragen.“",
+        "author": "Demo-Bewertung · Wachstum"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Ist diese Demo auf Wohnungsauflösung & Entrümpelung ausgerichtet?",
+        "answer": "Ja. Die Struktur ist so aufgebaut, dass Wohnungsauflösung & Entrümpelung als klarer Haupteinstieg für Entrümpelung-Leads in Bonn funktioniert."
+      },
+      {
+        "question": "Sind Kontaktdaten und Bewertungen echt?",
+        "answer": "Nein. Diese Demo arbeitet bewusst mit Platzhaltern, damit das Konzept schnell gezeigt und später sauber ersetzt werden kann."
+      },
+      {
+        "question": "Kann man die Seite später einfach anpassen?",
+        "answer": "Ja. Genau dafür gibt es den Generator: Daten ändern, Seiten neu bauen, pushen, fertig."
+      }
+    ],
+    "contact_title": "Demo-Kontaktbereich für Entrümpelung-Leads in Bonn.",
+    "contact_text": "Später lassen sich hier echte Telefonnummer, WhatsApp-Link, Bilder und qualifizierende Felder ergänzen.",
+    "contact_box_1_title": "Demo-Nummer",
+    "contact_box_1_text": "Platzhalter für direkten Erstkontakt",
+    "contact_box_2_title": "Demo-WhatsApp",
+    "contact_box_2_text": "Platzhalter für Bilder und Kurzbeschreibung",
+    "form_intro": "Formular zeigt den schnellen Einstieg für neue Leads.",
+    "form_placeholder": "Worum geht es bei Wohnungsauflösung & Entrümpelung genau?",
+    "form_success": "Demo-Formular aktiv: Für Live-Nutzung nur echte Kontaktdaten und Angebotslogik einsetzen.",
+    "hub_excerpt": "Lokale Lead-Landingpage mit direkter Kontaktaufnahme und klarer Positionierung."
+  },
+  {
+    "slug": "klimaanlage-service-essen",
+    "city": "Essen",
+    "name": "Klimaanlage Service Essen",
+    "subtitle": "Lokale Hilfe & klare Anfrage",
+    "short_name": "KS",
+    "title": "Klimaanlage Service Essen | Demo-Landingpage",
+    "meta_description": "Demo-Landingpage für Klimaanlage Service in Essen: Montage & Wartung, lokale Lead-Ansprache und direkte Kontaktaufnahme.",
+    "theme": {
+      "accent": "#d58f18",
+      "accent_deep": "#9f6500",
+      "info": "#556b2f"
+    },
+    "phone_display": "0201 23456789",
+    "phone_href": "+4920123456789",
+    "topline": "Klimaanlage Service Essen | Montage & Wartung | Demo-Website",
+    "demo_banner": "Demo-Konzept Klimaanlage Service | Kontakt, Bewertungen und Referenzen sind Platzhalter",
+    "hero_eyebrow": "Klimaanlage Service Essen",
+    "hero_title": "Mehr Anfragen für Klimaanlage Service in Essen, ohne dass Besucher lange überlegen müssen.",
+    "hero_lead": "Diese Demo-Landingpage ist auf direkte Leads ausgelegt: Montage & Wartung, klare Positionierung, lokale Relevanz und eine einfache Anfrage per Telefon, WhatsApp oder Formular.",
+    "primary_cta": "Jetzt Anfrage starten",
+    "secondary_cta": "Leistung ansehen",
+    "trust_items": [
+      "direkte Kontaktflächen",
+      "starke mobile Struktur",
+      "lokale Relevanz",
+      "Essen und Umgebung",
+      "Platz für echte Bewertungen"
+    ],
+    "contact_card_text": "Die Demo ist so gebaut, dass Vertrauen, Nutzen und nächster Schritt schnell verständlich werden.",
+    "visuals": [
+      {
+        "variant": "house",
+        "kicker": "Sofort verständlich",
+        "headline": "Montage & Wartung muss in wenigen Sekunden greifbar und relevant wirken."
+      },
+      {
+        "variant": "solar",
+        "kicker": "Lokale Lead-Ansprache",
+        "headline": "Die Seite soll Klimaanlage Service-Interessenten aus Essen schnell zum Kontakt führen."
+      }
+    ],
+    "status_chip": "Demo-Positionierung",
+    "status_title": "Klarer Nutzen. Klare Anfrage. Klare Richtung.",
+    "status_text": "Genau so lässt sich Klimaanlage Service in Essen als lokale Lead-Landingpage effizient präsentieren.",
+    "services_intro": "Die wichtigsten Einstiege für schnelle Anfragen.",
+    "services": [
+      {
+        "title": "Montage & Wartung",
+        "text": "Das Hauptangebot steht sofort sichtbar im Fokus und beantwortet direkt den ersten Suchimpuls."
+      },
+      {
+        "title": "Schnelle Einschätzung",
+        "text": "Besucher können ihr Problem oder Vorhaben kurz schildern und sehen sofort einen einfachen nächsten Schritt."
+      },
+      {
+        "title": "Vor-Ort-Termin",
+        "text": "Die Seite ist darauf ausgelegt, kurzfristige Rückmeldung und klare Terminabstimmung zu verkaufen."
+      },
+      {
+        "title": "Direkte Anfrage",
+        "text": "Anruf, WhatsApp oder Formular werden bewusst niedrigschwellig und conversionstark platziert."
+      }
+    ],
+    "why_title": "Warum diese Struktur für lokale Anfragen funktioniert.",
+    "why_text": "Die Seite reduziert Unsicherheit, macht den Nutzen verständlich und führt Besucher sichtbar zum nächsten Schritt.",
+    "why_items": [
+      {
+        "title": "Klare Positionierung",
+        "text": "Die Seite macht in wenigen Sekunden verständlich, warum genau dieser Klimaanlage Service in Essen relevant ist."
+      },
+      {
+        "title": "Starke mobile Nutzung",
+        "text": "Große Buttons, klare Scrolltiefe und direkte Kontaktflächen erhöhen die Lead-Chance auf dem Handy."
+      },
+      {
+        "title": "Lokale Relevanz",
+        "text": "Essen steht nicht nur in der Überschrift, sondern zieht sich sauber durch die komplette Lead-Story."
+      },
+      {
+        "title": "Schneller Austausch",
+        "text": "Texte, Telefonnummer und Angebote lassen sich später in Minuten auf echte Kundendaten umstellen."
+      }
+    ],
+    "reviews_intro": "Beispielhafte Demo-Bewertungen für die spätere Trust-Darstellung.",
+    "reviews": [
+      {
+        "text": "„Sehr gute Demo dafür, wie man einen Klimaanlage Service in Essen direkt, verständlich und kontaktstark präsentiert.“",
+        "author": "Demo-Bewertung · Essen"
+      },
+      {
+        "text": "„Die Seite führt schnell zum Kontakt und wirkt dabei klar, lokal und vertrauenswürdig.“",
+        "author": "Demo-Bewertung · Lead-Konzept"
+      },
+      {
+        "text": "„Saubere Struktur für Anzeigen, Google Business und direkte Suchanfragen.“",
+        "author": "Demo-Bewertung · Wachstum"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Ist diese Demo auf Montage & Wartung ausgerichtet?",
+        "answer": "Ja. Die Struktur ist so aufgebaut, dass Montage & Wartung als klarer Haupteinstieg für Klimaanlage Service-Leads in Essen funktioniert."
+      },
+      {
+        "question": "Sind Kontaktdaten und Bewertungen echt?",
+        "answer": "Nein. Diese Demo arbeitet bewusst mit Platzhaltern, damit das Konzept schnell gezeigt und später sauber ersetzt werden kann."
+      },
+      {
+        "question": "Kann man die Seite später einfach anpassen?",
+        "answer": "Ja. Genau dafür gibt es den Generator: Daten ändern, Seiten neu bauen, pushen, fertig."
+      }
+    ],
+    "contact_title": "Demo-Kontaktbereich für Klimaanlage Service-Leads in Essen.",
+    "contact_text": "Später lassen sich hier echte Telefonnummer, WhatsApp-Link, Bilder und qualifizierende Felder ergänzen.",
+    "contact_box_1_title": "Demo-Nummer",
+    "contact_box_1_text": "Platzhalter für direkten Erstkontakt",
+    "contact_box_2_title": "Demo-WhatsApp",
+    "contact_box_2_text": "Platzhalter für Bilder und Kurzbeschreibung",
+    "form_intro": "Formular zeigt den schnellen Einstieg für neue Leads.",
+    "form_placeholder": "Worum geht es bei Montage & Wartung genau?",
+    "form_success": "Demo-Formular aktiv: Für Live-Nutzung nur echte Kontaktdaten und Angebotslogik einsetzen.",
+    "hub_excerpt": "Lokale Lead-Landingpage mit direkter Kontaktaufnahme und klarer Positionierung."
+  },
+  {
+    "slug": "zaunbau-wuppertal",
+    "city": "Wuppertal",
+    "name": "Zaunbau Wuppertal",
+    "subtitle": "Lokale Hilfe & klare Anfrage",
+    "short_name": "ZA",
+    "title": "Zaunbau Wuppertal | Demo-Landingpage",
+    "meta_description": "Demo-Landingpage für Zaunbau in Wuppertal: Zaunbau & Toranlagen, lokale Lead-Ansprache und direkte Kontaktaufnahme.",
+    "theme": {
+      "accent": "#f39c12",
+      "accent_deep": "#b66a06",
+      "info": "#1c7c54"
+    },
+    "phone_display": "0202 34567890",
+    "phone_href": "+4920234567890",
+    "topline": "Zaunbau Wuppertal | Zaunbau & Toranlagen | Demo-Website",
+    "demo_banner": "Demo-Konzept Zaunbau | Kontakt, Bewertungen und Referenzen sind Platzhalter",
+    "hero_eyebrow": "Zaunbau Wuppertal",
+    "hero_title": "Mehr Anfragen für Zaunbau in Wuppertal, ohne dass Besucher lange überlegen müssen.",
+    "hero_lead": "Diese Demo-Landingpage ist auf direkte Leads ausgelegt: Zaunbau & Toranlagen, klare Positionierung, lokale Relevanz und eine einfache Anfrage per Telefon, WhatsApp oder Formular.",
+    "primary_cta": "Jetzt Anfrage starten",
+    "secondary_cta": "Leistung ansehen",
+    "trust_items": [
+      "direkte Kontaktflächen",
+      "starke mobile Struktur",
+      "lokale Relevanz",
+      "Wuppertal und Umgebung",
+      "Platz für echte Bewertungen"
+    ],
+    "contact_card_text": "Die Demo ist so gebaut, dass Vertrauen, Nutzen und nächster Schritt schnell verständlich werden.",
+    "visuals": [
+      {
+        "variant": "house",
+        "kicker": "Sofort verständlich",
+        "headline": "Zaunbau & Toranlagen muss in wenigen Sekunden greifbar und relevant wirken."
+      },
+      {
+        "variant": "solar",
+        "kicker": "Lokale Lead-Ansprache",
+        "headline": "Die Seite soll Zaunbau-Interessenten aus Wuppertal schnell zum Kontakt führen."
+      }
+    ],
+    "status_chip": "Demo-Positionierung",
+    "status_title": "Klarer Nutzen. Klare Anfrage. Klare Richtung.",
+    "status_text": "Genau so lässt sich Zaunbau in Wuppertal als lokale Lead-Landingpage effizient präsentieren.",
+    "services_intro": "Die wichtigsten Einstiege für schnelle Anfragen.",
+    "services": [
+      {
+        "title": "Zaunbau & Toranlagen",
+        "text": "Das Hauptangebot steht sofort sichtbar im Fokus und beantwortet direkt den ersten Suchimpuls."
+      },
+      {
+        "title": "Schnelle Einschätzung",
+        "text": "Besucher können ihr Problem oder Vorhaben kurz schildern und sehen sofort einen einfachen nächsten Schritt."
+      },
+      {
+        "title": "Vor-Ort-Termin",
+        "text": "Die Seite ist darauf ausgelegt, kurzfristige Rückmeldung und klare Terminabstimmung zu verkaufen."
+      },
+      {
+        "title": "Direkte Anfrage",
+        "text": "Anruf, WhatsApp oder Formular werden bewusst niedrigschwellig und conversionstark platziert."
+      }
+    ],
+    "why_title": "Warum diese Struktur für lokale Anfragen funktioniert.",
+    "why_text": "Die Seite reduziert Unsicherheit, macht den Nutzen verständlich und führt Besucher sichtbar zum nächsten Schritt.",
+    "why_items": [
+      {
+        "title": "Klare Positionierung",
+        "text": "Die Seite macht in wenigen Sekunden verständlich, warum genau dieser Zaunbau in Wuppertal relevant ist."
+      },
+      {
+        "title": "Starke mobile Nutzung",
+        "text": "Große Buttons, klare Scrolltiefe und direkte Kontaktflächen erhöhen die Lead-Chance auf dem Handy."
+      },
+      {
+        "title": "Lokale Relevanz",
+        "text": "Wuppertal steht nicht nur in der Überschrift, sondern zieht sich sauber durch die komplette Lead-Story."
+      },
+      {
+        "title": "Schneller Austausch",
+        "text": "Texte, Telefonnummer und Angebote lassen sich später in Minuten auf echte Kundendaten umstellen."
+      }
+    ],
+    "reviews_intro": "Beispielhafte Demo-Bewertungen für die spätere Trust-Darstellung.",
+    "reviews": [
+      {
+        "text": "„Sehr gute Demo dafür, wie man einen Zaunbau in Wuppertal direkt, verständlich und kontaktstark präsentiert.“",
+        "author": "Demo-Bewertung · Wuppertal"
+      },
+      {
+        "text": "„Die Seite führt schnell zum Kontakt und wirkt dabei klar, lokal und vertrauenswürdig.“",
+        "author": "Demo-Bewertung · Lead-Konzept"
+      },
+      {
+        "text": "„Saubere Struktur für Anzeigen, Google Business und direkte Suchanfragen.“",
+        "author": "Demo-Bewertung · Wachstum"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Ist diese Demo auf Zaunbau & Toranlagen ausgerichtet?",
+        "answer": "Ja. Die Struktur ist so aufgebaut, dass Zaunbau & Toranlagen als klarer Haupteinstieg für Zaunbau-Leads in Wuppertal funktioniert."
+      },
+      {
+        "question": "Sind Kontaktdaten und Bewertungen echt?",
+        "answer": "Nein. Diese Demo arbeitet bewusst mit Platzhaltern, damit das Konzept schnell gezeigt und später sauber ersetzt werden kann."
+      },
+      {
+        "question": "Kann man die Seite später einfach anpassen?",
+        "answer": "Ja. Genau dafür gibt es den Generator: Daten ändern, Seiten neu bauen, pushen, fertig."
+      }
+    ],
+    "contact_title": "Demo-Kontaktbereich für Zaunbau-Leads in Wuppertal.",
+    "contact_text": "Später lassen sich hier echte Telefonnummer, WhatsApp-Link, Bilder und qualifizierende Felder ergänzen.",
+    "contact_box_1_title": "Demo-Nummer",
+    "contact_box_1_text": "Platzhalter für direkten Erstkontakt",
+    "contact_box_2_title": "Demo-WhatsApp",
+    "contact_box_2_text": "Platzhalter für Bilder und Kurzbeschreibung",
+    "form_intro": "Formular zeigt den schnellen Einstieg für neue Leads.",
+    "form_placeholder": "Worum geht es bei Zaunbau & Toranlagen genau?",
+    "form_success": "Demo-Formular aktiv: Für Live-Nutzung nur echte Kontaktdaten und Angebotslogik einsetzen.",
+    "hub_excerpt": "Lokale Lead-Landingpage mit direkter Kontaktaufnahme und klarer Positionierung."
   }
 ]

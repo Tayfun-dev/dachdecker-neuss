@@ -10,6 +10,8 @@ Diese Website ist als statische Seite fuer GitHub Pages vorbereitet.
 - `generator/sites.json`
 - `generator/build_pages.py`
 - `generator/new_site.py`
+- `generator/import_sites_csv.py`
+- `generator/bulk_sites_template.csv`
 
 ## Landingpage-Generator
 
@@ -65,6 +67,43 @@ git add .
 git commit -m "Add new niche demo"
 git push
 ```
+
+### Mehrere Seiten per CSV anlegen
+
+Wenn du viele Seiten auf einmal bauen willst:
+
+1. Oeffne `generator/bulk_sites_template.csv`
+2. Fuelle Zeilen mit:
+   - `branch`
+   - `city`
+   - `phone`
+   - `main_offer`
+3. Speichere die Datei als `generator/bulk_sites.csv`
+4. Fuehre aus:
+
+```bash
+cd /Users/tayfungomukpinar/Documents/Playground
+python3 -B generator/import_sites_csv.py
+```
+
+Oder mit eigener Datei:
+
+```bash
+cd /Users/tayfungomukpinar/Documents/Playground
+python3 -B generator/import_sites_csv.py generator/bulk_sites_example.csv
+```
+
+Danach passiert automatisch:
+
+- neue Eintraege in `generator/sites.json`
+- Generierung aller neuen Unterseiten
+- Aktualisierung von `demos/index.html`
+
+Das ist auch der einfachste Weg fuer Google Sheets:
+
+1. Spalten genauso in Google Sheets anlegen
+2. Als CSV herunterladen
+3. Die CSV mit `python3 -B generator/import_sites_csv.py PFAD_ZUR_DATEI.csv` importieren
 
 ## So stellst du die Seite live
 
