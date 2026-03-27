@@ -17,6 +17,13 @@ def load_sites() -> list[dict]:
     return json.loads(DATA_FILE.read_text(encoding="utf-8"))
 
 
+def site_city(site: dict) -> str:
+    if site.get("city"):
+        return site["city"]
+    parts = site["name"].split()
+    return parts[-1] if parts else "Ihre Stadt"
+
+
 def visual_svg(variant: str) -> str:
     variants = {
         "key": """
@@ -217,6 +224,7 @@ def render_trust_items(items: list[str]) -> str:
 
 def render_site(site: dict) -> str:
     theme = site["theme"]
+    city = site_city(site)
     return f"""<!DOCTYPE html>
 <html lang="de">
   <head>
@@ -400,7 +408,7 @@ def render_site(site: dict) -> str:
         </div>
         <div>
           <strong>Region</strong>
-          <p>Düsseldorf</p>
+          <p>{html.escape(city)}</p>
         </div>
         <div>
           <strong>Mehr</strong>
@@ -433,13 +441,13 @@ def render_hub(sites: list[dict]) -> str:
             </article>"""
     )
     for site in sites:
-      cards.append(
-          f"""<article class="hub-card">
+        cards.append(
+            f"""<article class="hub-card">
               <h3>{html.escape(site["name"])}</h3>
               <p>{html.escape(site["hub_excerpt"])}</p>
               <a class="text-link" href="../{html.escape(site["slug"])}/">Demo öffnen</a>
             </article>"""
-      )
+        )
     return f"""<!DOCTYPE html>
 <html lang="de">
   <head>

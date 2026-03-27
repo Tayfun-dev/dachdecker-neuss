@@ -9,6 +9,7 @@ Diese Website ist als statische Seite fuer GitHub Pages vorbereitet.
 - `.github/workflows/pages.yml`
 - `generator/sites.json`
 - `generator/build_pages.py`
+- `generator/new_site.py`
 
 ## Landingpage-Generator
 
@@ -34,6 +35,36 @@ Der Befehl aktualisiert:
 - `demos/index.html`
 - alle generierten Unterordner wie `schluesseldienst-duesseldorf/`
 - weitere neue Branchen aus `generator/sites.json`
+
+### Neue Seite per Fragen-Tool anlegen
+
+Wenn du nicht direkt JSON bearbeiten willst:
+
+```bash
+cd /Users/tayfungomukpinar/Documents/Playground
+python3 -B generator/new_site.py
+```
+
+Dann fragt das Tool nacheinander:
+
+- Branche
+- Stadt
+- Telefon
+- Hauptangebot
+
+Danach passiert automatisch:
+
+- neuer Eintrag in `generator/sites.json`
+- Generierung der neuen Unterseite
+- Aktualisierung von `demos/index.html`
+
+Zum Live-Stellen danach nur noch:
+
+```bash
+git add .
+git commit -m "Add new niche demo"
+git push
+```
 
 ## So stellst du die Seite live
 
