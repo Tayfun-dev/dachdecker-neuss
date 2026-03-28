@@ -12,6 +12,8 @@ Diese Website ist als statische Seite fuer GitHub Pages vorbereitet.
 - `generator/new_site.py`
 - `generator/import_sites_csv.py`
 - `generator/bulk_sites_template.csv`
+- `sales/leads_template.csv`
+- `sales/generate_outreach.py`
 
 ## Landingpage-Generator
 
@@ -104,6 +106,29 @@ Das ist auch der einfachste Weg fuer Google Sheets:
 1. Spalten genauso in Google Sheets anlegen
 2. Als CSV herunterladen
 3. Die CSV mit `python3 -B generator/import_sites_csv.py PFAD_ZUR_DATEI.csv` importieren
+
+## Sales-System
+
+Fuer Akquise, Follow-ups und CRM gibt es einen extra Bereich:
+
+- `sales/leads_template.csv`
+- `sales/dachdecker_duesseldorf_leads.csv`
+- `sales/generate_outreach.py`
+- `sales/README.md`
+
+Outreach aus einer Lead-Liste erzeugen:
+
+```bash
+cd /Users/tayfungomukpinar/Documents/Playground
+python3 -B sales/generate_outreach.py sales/dachdecker_duesseldorf_leads.csv https://tayfun-dev.github.io sales/outreach_output.md
+```
+
+Danach entsteht eine Markdown-Datei mit:
+
+- Erstnachrichten
+- Follow-up Texten
+- Preisnachrichten
+- Telefon-Openern
 
 ## So stellst du die Seite live
 
